@@ -1,0 +1,210 @@
+msgid "Home - ILS"
+msgstr "Inicio - ILS"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Email"
+msgstr "Correo Electrónico"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Age"
+msgstr "Edad"
+
+msgid "Created"
+msgstr "Fecha de Creación"
+
+msgid "Modified"
+msgstr "Fecha de Modificación"
+
+msgid "Related Inscriptions"
+msgstr "Cursos Inscritos"
+
+msgid "no related Inscriptions"
+msgstr "Sin Matrículas"
+
+msgid "New User"
+msgstr "Nuevo Usuario"
+
+msgid "List Users"
+msgstr "Lista de Usuarios"
+
+msgid "New Role"
+msgstr "Nuevo Rol"
+
+msgid "List Roles"
+msgstr "Lista de Roles"
+
+msgid "New Course"
+msgstr "Nuevo Curso"
+
+msgid "List Course"
+msgstr "Lista de Cursos"
+
+msgid "New Grade"
+msgstr "Nueva Nota"
+
+msgid "List Grades"
+msgstr "Lista de Notas"
+
+msgid "(Logout)"
+msgstr "(Desconectar)"
+
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "next"
+msgstr "siguiente"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Add {0}"
+msgstr "Crear {0}"
+
+msgid "Guest"
+msgstr "Invitado"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Teacher"
+msgstr "Profesor"
+
+msgid "Student"
+msgstr "Estudiante"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Teoric Hours"
+msgstr "Horas Teóricas"
+
+msgid "Practice Hours"
+msgstr "Horas Prácticas"
+
+msgid "Credits"
+msgstr "Créditos"
+
+msgid "Grades"
+msgstr "Notas"
+
+msgid "Courses"
+msgstr "Cursos"
+
+msgid "Calification"
+msgstr "Calificación"
+
+msgid "Course"
+msgstr "Curso"
+
+msgid "Inscription"
+msgstr "Matrícula"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+msgid "Are you sure you want to delete {0}?"
+msgstr "¿Esta seguro de eliminar al usuario {0}?"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Cycle"
+msgstr "Ciclo"
+
+msgid "Related Users"
+msgstr "Usuarios"
+
+msgid "no related Users"
+msgstr "No hay usuarios"
+
+msgid "Related Grades"
+msgstr "Calificaciones"
+
+msgid "no related Grades"
+msgstr "Sin Calificaciones"
+
+msgid "Published"
+msgstr "Publicado"
+
+msgid "Grade"
+msgstr "Nota"
+
+msgid "About"
+msgstr "Quienes Somos"
+
+msgid "You are now logged out."
+msgstr "Usted se ha desconectado"
+
+msgid "Please enter your email and password"
+msgstr "Ingrese su correo electronico y contraseña"
+
+msgid "Your username or password is incorrect."
+msgstr "El correo o contraseña que ingreso son incorrectos."
+
+msgid "CAPTCHA validation failed, please try again."
+msgstr "La Imagen CAPTCHA es invalida"
+
+msgid "Retype the characters from the picture:"
+msgstr "Escriba las letras de la imagen"
+
+msgid "You are not authorized to access that location."
+msgstr "No puede acceder a esta ubicacion"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
